@@ -1,0 +1,6 @@
+class Test
+{
+public static final synchronized strictfp  void main (String... args)
+{
+Sytem.out.println("Valid Main Method");
+}
